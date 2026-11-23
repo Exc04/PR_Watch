@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">WorldCinema</string>
+
+    <string name="title_sign_in">WorldCinema</string>
+    <string name="email_label">E-mail</string>
+    <string name="email_hint">you@example.com</string>
+    <string name="password_label">Пароль</string>
+    <string name="password_hint">Ваш пароль</string>
+    <string name="sign_in">Войти</string>
+
+    <string name="menu_discussions">Обсуждения</string>
+    <string name="menu_movies">Фильмы</string>
+    <string name="menu_favorites">Избранное</string>
+
+    <string name="back">Назад</string>
+
+    <string name="chat_title">Обсуждения</string>
+    <string name="chat_lucifer">Lucifer</string>
+    <string name="chat_witcher">The Witcher</string>
+    <string name="chat_lost">LOST</string>
+    <string name="chat_magicians">The Magicians</string>
+
+    <string name="movies_title">Новое</string>
+    <string name="movie_witcher">Witcher</string>
+    <string name="movie_jessica">Jessica Jones</string>
+    <string name="movie_magicians">The Magicians</string>
+</resources>
